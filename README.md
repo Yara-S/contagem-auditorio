@@ -2,7 +2,7 @@
 Sistema de contagem para controle de lotação do autório javali
 
 
-A lotação do auditório permite um máximo de 50 pessoas, então o operador pode ultilizar o sistema para manter controle da quantidade de alunos.
+A lotação do auditório permite um máximo de 50 pessoas, então o operador pode utilizar o sistema para manter controle da quantidade de alunos.
 
 O sistema tem por função alertar quando o auditório está com capacidade máxima. Alem disso, tem os seguintes indicativos:
 
